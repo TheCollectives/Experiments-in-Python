@@ -1,2 +1,2 @@
-# Experiments-in-Python
+# python-experiments
 Experiments in Python
